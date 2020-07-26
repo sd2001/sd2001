@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Swarnabha github stats](https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight)
+
   
