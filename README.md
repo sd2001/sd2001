@@ -15,11 +15,45 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 
 
 <hr/>
-<body>
+<div>
   <p><img align="left" img width="500" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
   <p><img align="right" img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
-  </body>
-<br />
+  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  </div>
+<br>
+
+
+## 💬 Lets Connect and have a fun Geeky talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **sd2001/sd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +68,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 💬 Lets Connect and have a fun Geeky talk
-
 
   
