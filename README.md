@@ -3,14 +3,14 @@
 <p align="center">
   <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
 </p>
-
+<hr/>
 
   <p >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight" />
+    <img align="left" img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight" />
     </p>
   <p >
-    <img align="right" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(1).gif" />
-    </p>
+    <img align="right" img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"/>
+   </p>
 
 
 
