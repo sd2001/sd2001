@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Swarnabha github stats](https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight)       
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd2001&layout=demo)](https://github.com/sd2001/github-readme-stats)
+![Swarnabha github stats](https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight)
+  
+<p align="right">
+  <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/200.webp">
+</p>
