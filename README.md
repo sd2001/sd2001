@@ -4,6 +4,19 @@
   <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
 </p>
 
+
+  <p >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight" />
+    </p>
+  <p >
+    <img align="right" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(1).gif" />
+    </p>
+
+
+
+
+  
+
 <!--
 **sd2001/sd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +34,3 @@ Here are some ideas to get you started:
 
 ![Swarnabha github stats](https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight)
   
-<p align="right">
-  <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/200.webp">
-</p>
