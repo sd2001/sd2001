@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Geek 👋
 
 <!--
 **sd2001/sd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Swarnabha github stats](https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight)                                                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd2001&layout=demo)](https://github.com/sd2001/github-readme-stats)
