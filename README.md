@@ -1,4 +1,4 @@
-#    <div align="center" >![alt text](https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png) 
+#    <div align="center" >![alt text](https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png) </div>
   
 <p align="center">
   <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
@@ -6,10 +6,10 @@
 <hr/>
 
   <p >
-    <img align="left" img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight" />
+    <img align="left" img width="500" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight" />
     </p>
   <p >
-    <img align="right" img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"/>
+    <img align="right" img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"/>
    </p>
 
 
