@@ -1,4 +1,8 @@
-#    <div align="center" >         ![alt text](https://github.com/sd2001/sd2001/blob/master/Screenshot_4.png) 
+#    <div align="center" >![alt text](https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png) 
+  
+<p align="center">
+  <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
+</p>
 
 <!--
 **sd2001/sd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
