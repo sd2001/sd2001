@@ -12,9 +12,9 @@
 
 ## <div align="center" >About ME👋 </div>
 
-Currently, in my 2nd Year, I am a Results-Driven Computer Science student from SRMIST, KTR.I am really passionate about developing fast and efficient Machine Learning models. I love to learn new things and implement them eventually to develop hands-on skills. Working and manipulating images using OpenCV,imutils,skimage is something I love working on. Check out my repositories based on Image Processing.
+Currently, in my 2nd Year, I am a Results-Driven Computer Science student from SRMIST, KTR.I am really passionate about developing fast and efficient Machine Learning models. I love to learn new things and implement them eventually to develop hands-on skills. Working and manipulating images using OpenCV,imutils,skimage is something I love working on. Check out my repositories based on Image Processing👇.
 
-🔭 I’m currently working in Programming Summer of Code'20, Technocolabs
+🔭 I’m currently working as a mentee in Programming Summer of Code'20, Intern in Technocolabs
 
 🌱 I’m currently learning Deep Learning and Computer Vision
 
@@ -29,9 +29,26 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 
 
 ## 💬 Lets Connect and have a fun Geeky talk
-
-
-
+<a href="https://www.instagram.com/__swarnabha.d__/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/swarnabha-das-2001official/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/swarnabha.das.737">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/facebook%20(1).svg" />
+</a>
+<a href="https://twitter.com/swarnabha_das">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/twitter.svg" />
+</a>
+<a href="https://in.pinterest.com/imswarnabha2001/boards/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/pinterest.svg" />
+</a>
+<a href="https://medium.com/@im.swarnabha2001">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/medium.svg" />
+</a>
+<br />
+**You can also email me at im.swarnabha2001@gmail.com for collaborations🙃.**
 
 
 
