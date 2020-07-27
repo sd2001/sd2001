@@ -69,7 +69,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   </p>
 
 <div align="center" >
-  <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(8).gif">
+  <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200%20(1).webp">
 </div>
 
 # <div align="center" > 🦹‍♀️Daily Dose🤖</div>
