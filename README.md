@@ -71,7 +71,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   </div>
 
 
-# <div align="center" > <u>💙HAVE A GREAT DAY AHEAD 😇!</u> </div>
+# <div align="center"><p> <u>💙HAVE A GREAT DAY AHEAD 😇!</u> </p></div>
 <div align="center" >
   <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/giphy3.gif">
   </div>
