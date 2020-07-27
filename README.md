@@ -33,7 +33,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   </p>
 <hr/>
 
-# 💬 Lets Connect and have a fun Geeky talk 📱 
+# <div align="center" >💬 Lets Connect and have a fun Geeky talk 📱 </div>
 <p>
   <br />
   </p>
