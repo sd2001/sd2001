@@ -2,9 +2,12 @@
 ## <div align="center" >★✪✪✪✪✷Hi there! Its Swarnabha👋★✪✪✪✪✷ </div>
   
 <p >
-  <img align="left" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
-  <img align="left" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
+  <img align="left" width="300" height="350" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
+  <img align="left" width="300" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
+  <img align="left" width="250" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy%20(1).gif">
 </p>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <hr/>
 
 ## <div align="center" >About ME👋 </div>
@@ -16,7 +19,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 🌱 I’m currently learning Deep Learning and Computer Vision
 
 
-<hr/>
+
 <div>
   <p><img align="left" img width="500" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
   <p><img align="right" img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
