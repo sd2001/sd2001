@@ -1,8 +1,8 @@
-# <div align="center" ><img src=(https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png)> </div>
+# <div align="center" ><img src="https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png"></div>
 ## <div align="center" >★✪✪✪✪✷Hi there! Its Swarnabha👋★✪✪✪✪✷ </div>
   
 <p >
-  <img align="left" width="300" height="350" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
+  <img align="left" width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
   <img align="left" width="300" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
   <img align="left" width="250" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy%20(1).gif">
 </p>
