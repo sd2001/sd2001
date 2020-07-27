@@ -1,8 +1,9 @@
-# <div align="center" >![alt text](https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png) </div>
+# <div align="center" ><img src=(https://github.com/sd2001/sd2001/blob/master/Screenshot_6.png)> </div>
 ## <div align="center" >★✪✪✪✪✷Hi there! Its Swarnabha👋★✪✪✪✪✷ </div>
   
-<p align="center">
-  <img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
+<p >
+  <img align="left" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
+  <img align="left" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/giphy.gif">
 </p>
 <hr/>
 
