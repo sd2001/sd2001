@@ -28,7 +28,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 <br>
 
 
-## 💬 Lets Connect and have a fun Geeky talk
+## 💬 Lets Connect and have a fun Geeky talk 📱 
 <a href="https://www.instagram.com/__swarnabha.d__/">
   <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/instagram.svg" />
 </a>
@@ -49,8 +49,6 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 </a>
 
 #### <div align="right" > You can also email me at im.swarnabha2001@gmail.com for collaborations.</div>
-
-
 
 
 
