@@ -71,7 +71,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   </div>
 
 
-## <div align="center"><u>LEARN | SHARE | CONQUER | REPEAT</u></div>
+## <div align="center"><img width="500" height="70" src="https://github.com/sd2001/sd2001/blob/master/Screenshot_11.png"></div>
 <div align="center" >
   <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/giphy3.gif">
   <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200w%20(5).webp">
