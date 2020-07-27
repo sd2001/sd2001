@@ -58,7 +58,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   </p>
 
 
-## <div align="center" > 🦹‍♀️My Passion🤖</div>
+## <div align="center" > 🦹‍♀️Daily Dose🤖</div>
 
 - Playing and Watching Football ️⚽️
 - Writing Blogs 🖊
