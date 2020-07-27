@@ -49,6 +49,21 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 </a>
 
 #### <div align="right" > You can also email me at im.swarnabha2001@gmail.com for collaborations.</div>
+<hr />
+
+
+## <div align="center" > 🦹‍♀️My Passion🤖</div>
+
+- Playing and Watching Football ️⚽️
+- Writing Blogs 🖊
+- Implementing codes 🖥
+- Smiling at random CAT🐈 and DOG🐶 Videos
+
+<div align="center" >
+  <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200w.webp">
+  <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200.webp">
+  </div>
+
 
 
 
