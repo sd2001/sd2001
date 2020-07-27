@@ -27,7 +27,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 
 
 <div>
-  <p><img align="left" width="450" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
+  <p><img align="left" width="420" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
   <p><img align="right" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
