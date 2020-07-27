@@ -1,5 +1,5 @@
 # <div align="center" ><img src="https://github.com/sd2001/sd2001/blob/master/Screenshot_9.png"></div>
-## <div align="center" >★✪✪✪✪✷Hi there! It's Swarnabha👋✷✪✪✪✪★ </div>
+## <div align="center" ><img width="90" height="40" src="https://github.com/sd2001/sd2001/blob/master/giphy%20(2).gif">Hi there! It's Swarnabha👋<img width="100" height="50" src="https://github.com/sd2001/sd2001/blob/master/giphy%20(2).gif"> </div>
   
 <p >
   <img align="left" width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200w%20(3).webp">
@@ -21,8 +21,8 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 
 
 <div>
-  <p><img align="left" img width="500" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
-  <p><img align="right" img width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
+  <p><img align="left" width="500" height="350" src="https://github-readme-stats.vercel.app/api?username=sd2001&show_icons=true&theme=tokyonight"></p>
+  <p><img align="right" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
 
