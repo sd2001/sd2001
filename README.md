@@ -57,7 +57,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   <img align="left" alt="SD | Insta" width="40px" src="https://github.com/sd2001/sd2001/blob/master/medium.svg" />  
 </a>
 
-#### <div align="right" > You can also email me at im.swarnabha2001@gmail.com for collaborations 🙃.</div>
+#### <div align="right" > You can email me at im.swarnabha2001@gmail.com for collaborations🙃.</div>
 <p>
   <br />
   </p>
