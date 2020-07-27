@@ -25,7 +25,9 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   <p><img align="right" width="350" height="350" src="https://github.com/sd2001/sd2001/blob/master/tenor%20(2).gif"></p>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
-
+<p>
+  <br />
+  </p>
 <hr/>
 
 # 💬 Lets Connect and have a fun Geeky talk 📱 
