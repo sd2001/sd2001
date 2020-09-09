@@ -20,10 +20,9 @@
 
 Currently, in my 2nd Year, I am a Results-Driven Computer Science student from SRMIST, KTR.I am really passionate about developing fast and efficient Machine Learning models. I love to learn new things and implement them eventually to develop hands-on skills. Working and manipulating images using OpenCV,imutils,skimage is something I love working on. Check out my repositories on Image Processing👇.
 
-🔭 I’m currently working as a mentee in Programming Summer of Code'20, Intern in Technocolabs
+🔭 I’m currently a member in NextTech Tesla Lab
 
-🌱 I’m currently learning Deep Learning and Computer Vision
-
+🌱 I’m currently learning Deep Learning, Computer Vision and also exploring several other domains just to get a hold of everything that can deploy my thoughts into reality.
 
 
 <div>
@@ -90,32 +89,6 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/giphy3.gif">
   <img width="300" height="300" src="https://github.com/sd2001/sd2001/blob/master/200w%20(5).webp">
  </div>
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **sd2001/sd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
