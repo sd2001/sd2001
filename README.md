@@ -20,7 +20,7 @@
 
 Currently, in my 2nd Year, I am a Results-Driven Computer Science student from SRMIST, KTR.I am really passionate about developing fast and efficient Machine Learning models. I love to learn new things and implement them eventually to develop hands-on skills. Working and manipulating images using OpenCV,imutils,skimage is something I love working on. Check out my repositories on Image Processing👇.
 
-🔭 I’m currently a member in NextTech Tesla Lab
+🔭 I’m currently a member in NextTech Tesla Lab and SRM-Machine Intelligence Community
 
 🌱 I’m currently learning Deep Learning, Computer Vision and also exploring several other domains just to get a hold of everything that can deploy my thoughts into reality.
 
