@@ -36,6 +36,9 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   <p>
   <br />
   </p>
+  <p align="center">
+  ![Profile Visits](https://komarev.com/ghpvc/?username=sd2001&label=PROFILE+VIEWS)
+  </p>
 <hr/>
 
 # <div align="center" >💬 Lets Connect and have a fun Geeky talk 📱 </div>
