@@ -36,8 +36,10 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
   <p>
   <br />
   </p>
-  <p align="center">
-  ![Profile Visits](https://komarev.com/ghpvc/?username=sd2001&label=PROFILE+VIEWS)
+  <p align="center">  
+  <a href="https://github.com/sd2001/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sd2001&color=red&style=flat-square&label=PROFILE+STALKERS+😂">
+  </a>
   </p>
 <hr/>
 
