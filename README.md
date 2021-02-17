@@ -22,7 +22,7 @@ Currently, in my 2nd Year, I am a Results-Driven Computer Science student from S
 
 🔭 I’m currently a member in NextTech Tesla Lab and SRM-Machine Intelligence Community
 
-🌱 I’m currently learning Deep Learning, Computer Vision and also exploring several other domains just to get a hold of everything that can deploy my thoughts into reality.
+🌱 I’m currently learning Backend Development and also exploring several other domains just to get a hold of everything that can deploy my thoughts into reality.
 
 
 <div>
