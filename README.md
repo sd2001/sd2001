@@ -12,7 +12,7 @@
  </div>
 
 <div>
-<img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>	
+<img width=400px height=320px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>	
 <div>
   <br><br>
   <p>
