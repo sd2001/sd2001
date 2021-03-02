@@ -91,3 +91,8 @@
   People say "Jack of all Trades, Master of None",
   Quoted back in 1592, this is still a cliche in 2021.
   ```
+<p align="center">  
+  <a href="https://github.com/sd2001/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sd2001&color=green&style=flat-square&label=SNEEK-PEEK">
+  </a>
+ </p>
