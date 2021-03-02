@@ -19,9 +19,11 @@
     <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-green?&style=for-the-badge">
   </p>  
   <p style="font-family:Arial;">
-    <strong>
-  I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Currently I am learning Bits and Bytes about Backend Development.
-    </strong>
+    <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20from%20-SRMIST🏫-pink?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-pink?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20develppment-Learning📚-pink?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-pink?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Cats%20and%20dogs-True%20%F0%9F%92%96-pink?style=for-the-badge&logo=heart" />    
   </p>
  </div>
  </div> 
