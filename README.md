@@ -38,17 +38,17 @@
     <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
   </p >  
   <p align="right">
-    <img height="40px" src="https://img.shields.io/badge/backend%20tech%20stack-pink?&style=for-the-badge "/>&nbsp;&nbsp;&nbsp;&nbsp;    
+    <img src="https://img.shields.io/badge/backend%20tech%20stack-pink?&style=for-the-badge "/>&nbsp;&nbsp;&nbsp;&nbsp;    
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/flask.svg" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/fastapi.jpg" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/django.svg" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-node-js-64.png" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/javascript.svg" /><br><br>  
-    <img height="40px" src="https://img.shields.io/badge/deep%20learning-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/deep%20learning-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/python.svg" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/pytorch.png" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/tensorflow.svg" /><br><br>
-    <img height="40px" src="https://img.shields.io/badge/Deployment+databases-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Deployment+databases-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-github-50.png" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/heroku-48.png" />
   <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/sql-52.png" />
