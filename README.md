@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/swarnabha-das-2001official/"><img src="https://github.com/sd2001/sd2001/blob/master/Socials/linkedin-sign.svg" height="30px"      width="30px" alt="LinkedIn"></a>
-    <a href="https://twitter.com/im_sd2001"><img src="https://github.com/sd2001/sd2001/blob/master/Socials/twitter-sign.svg" height="30px" width="30px"               alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/swarnabha-das-2001official/"><img src="https://github.com/sd2001/sd2001/blob/master/Socials/linkedin-sign.svg" height="40px"      width="40px" alt="LinkedIn"></a>
+    <a href="https://twitter.com/im_sd2001"><img src="https://github.com/sd2001/sd2001/blob/master/Socials/twitter-sign.svg" height="40px" width="40px"               alt="Twitter"></a>
     
  </p>
  </div>
