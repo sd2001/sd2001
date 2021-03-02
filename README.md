@@ -31,7 +31,7 @@
  <br><br><br>
  
  <div>
-<img width=400px height=320px align="right" src="https://media.giphy.com/media/SWoctMQwFFeE21ePvc/giphy.gif"/>	
+<img width=430px height=320px align="right" src="https://media.giphy.com/media/SWoctMQwFFeE21ePvc/giphy.gif"/>	
 <div >
   <br><br>
   <p align="right">
@@ -40,7 +40,7 @@
   <p align="right">
     <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-pink?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20develppment-Learning📚-pink?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes-Learning📚-pink?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-pink?style=for-the-badge&logo=one" /><br>
     <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-pink?style=for-the-badge&logo=heart" />    
   </p>
