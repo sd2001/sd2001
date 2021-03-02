@@ -15,8 +15,11 @@
 <img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>	
 <div>
   <br><br><br>
-  <p style="font-family:'Comic Sans'" margin: 0 position: absolute top: 50% -ms-transform: translateY(-50%) transform: translateY(-50%)>
-  I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Love what drives you, not that drives the world. 
+  <p style="font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
+    <strong>About me<strong>
+  </p>  
+  <p style="font-family:Arial;">
+  I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Currently I am learning Bits and Bytes about Backend Development.
   </p>
  </div>
  </div> 
