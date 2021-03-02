@@ -12,11 +12,7 @@
  </div>
 
 <img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>
-<div>
-  <p style="font-family:'Comic Sans'">
-  I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Love what drives you, not that drives the world. 
-  </p>
- </div>
+
  
   
 
