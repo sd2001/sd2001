@@ -14,7 +14,7 @@
 <div>
 <img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>	
 <div>
-  <br><br><br>
+  <br><br>
   <p>
     <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-green?&style=for-the-badge">
   </p>  
