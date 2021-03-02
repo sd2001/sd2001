@@ -89,7 +89,7 @@
   >> python fun_fact.py
   
   People say "Jack of all Trades, Master of None",
-  Quoted back in 1592, this is still a cliche in 2021.
+  Quoted back in 1592, still a cliche in 2021.
   ```
 <p align="center">  
   <a href="https://github.com/sd2001/github-profile-views-counter">
