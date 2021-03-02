@@ -32,8 +32,8 @@
  
  <div>
 <img width=430px height=320px align="right" src="https://media.giphy.com/media/SWoctMQwFFeE21ePvc/giphy.gif"/>	
-<div >
-  <br><br>
+<div>
+  
   <p align="right">
     <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
   </p >  
