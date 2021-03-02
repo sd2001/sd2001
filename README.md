@@ -15,11 +15,13 @@
 <img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>	
 <div>
   <br><br><br>
-  <p style="font-family:georgia,garamond,serif;font-size:25px;font-style:italic;">
-    <strong>About me<strong>
+  <p>
+    <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-green?&style=for-the-badge">
   </p>  
   <p style="font-family:Arial;">
+    <strong>
   I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Currently I am learning Bits and Bytes about Backend Development.
+    </strong>
   </p>
  </div>
  </div> 
