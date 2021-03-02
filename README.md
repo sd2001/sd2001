@@ -83,6 +83,11 @@
   <p align="right">
   <img src="https://img.shields.io/badge/believe%20in%20yourself-orangered?&style=for-the-badge" /><br>
   </p>
- </div>
+ </div><br><br>
 
+  ```
+  >> python fun_fact.py
   
+  People say "Jack of all Trades, Master of None",
+  Quoted back in 1592, this is still a cliche in 2021.
+  ```
