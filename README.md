@@ -31,7 +31,7 @@
  <br><br><br>
  
  <div>
-<img width=430px height=320px align="right" src="https://media.giphy.com/media/SWoctMQwFFeE21ePvc/giphy.gif"/>	
+<img width=430px height=305px align="right" src="https://media.giphy.com/media/SWoctMQwFFeE21ePvc/giphy.gif"/>	
 <div>
   <br>
   <p align="right">
