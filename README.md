@@ -19,11 +19,11 @@
     <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-black?&style=for-the-badge">
   </p>  
   <p style="font-family:Arial;">
-    <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20develppment-Learning📚-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-pink?style=for-the-badge&logo=one" /><br>
-    <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-pink?style=for-the-badge&logo=heart" />    
+    <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20develppment-Learning📚-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-green?style=for-the-badge&logo=one" /><br>
+    <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-green?style=for-the-badge&logo=heart" />    
   </p>
  </div>
  </div> 
@@ -38,11 +38,11 @@
     <img height=40px width=220px src="https://img.shields.io/badge/What%20I%20can%20help%20you%20in-black?&style=for-the-badge">
   </p >  
   <p align="right">
-    <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Bits%20and%20bytes-Learning📚-pink?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-pink?style=for-the-badge&logo=one" /><br>
-    <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-pink?style=for-the-badge&logo=heart" />    
+    <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes-Learning📚-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-green?style=for-the-badge&logo=one" /><br>
+    <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-green?style=for-the-badge&logo=heart" />    
   </p>
  </div>
  </div> 
