@@ -38,16 +38,19 @@
     <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
   </p >  
   <p align="right">
-    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/python.svg" />
-    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/javascript.svg" /><br>
-    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/django.svg" />
-    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-node-js-64.png" /><br>
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/flask.svg" />
-    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/fastapi.jpg" /><br>
+    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/fastapi.jpg" />
+    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/django.svg" />
+    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-node-js-64.png" />
+    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/javascript.svg" /><br>    
+    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/python.svg" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/pytorch.png" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/tensorflow.svg" /><br>
-    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-github-50.png" />    
-    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/mongodb.svg" /><br>
+    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-github-50.png" />
+    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/heroku-48.png" />
+  <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/sql-52.png" />
+  <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/sql-52.png" />
+    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/postgresql.png" /><br>
   </p>
  </div>
  </div> 
