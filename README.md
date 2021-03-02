@@ -64,10 +64,10 @@
   
 <div>
   <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>My Github Stats</summary>
     <br/>
     <p>
-      <img align="left" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
+      <img align="left" height="240" width="480" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
     <p>
   </details>
   <p align="right">
