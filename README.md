@@ -10,8 +10,15 @@
     <a href="https://www.facebook.com/swarnabha.das.737"><img src="https://github.com/sd2001/sd2001/blob/master/Socials/facebook.svg" height="40px" width="40px"                  alt="Facebook"></a>
    </p>
  </div>
-
+<div>
 <img width=400px height=300px align="left" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>
+<div>
+  <p style="font-family:'Comic Sans'">
+  I am a Results-Driven Sophomore from SRMIST, Kattankulathur. I appreciate understanding and exploring various fields with an endeavour to find out what inspires you the most. Love what drives you, not that drives the world. 
+  </p>
+ </div>
+ </div> 
+  
 
 
   
