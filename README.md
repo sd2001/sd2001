@@ -60,11 +60,13 @@
  
  <br><br><br>
   
- 
+
   
 <div>
   <details>
-  <summary>My Github Stats</summary>
+  <summary>
+    img src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " />
+    </summary>
     <p>
       <img align="left" height="230" width="460" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
     <p>
