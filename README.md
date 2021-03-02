@@ -59,15 +59,25 @@
  </div> 
  
  <br><br><br>
+  
  
- <div align="center">
   
-  <img src="https://img.shields.io/badge/Do%20what%20drives%20you-tomato?&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Not%20what%20drives%20others-darkorange?&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/and-gold?&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/believe%20in%20yourself-orangered?&style=for-the-badge" /><br>
- </div>
-  
+  <div align="left">
+  <details>
+  <summary>:zap: Github Stats</summary>
+  <br/>
+  <p>
+    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
+  <p>
+</details>
+ 
 
+
+  
+  <img align="right" src="https://img.shields.io/badge/Do%20what%20drives%20you-tomato?&style=for-the-badge" /><br>
+  <img align="right" src="https://img.shields.io/badge/Not%20what%20drives%20others-darkorange?&style=for-the-badge" /><br>
+  <img align="right" src="https://img.shields.io/badge/and-gold?&style=for-the-badge" /><br>
+  <img align="right" src="https://img.shields.io/badge/believe%20in%20yourself-orangered?&style=for-the-badge" /><br>
+ </div>
 
   
