@@ -57,9 +57,11 @@
   </p>
  </div>
  </div> 
- <br>
+ 
+ <br><br><br>
  
  <div align="center">
+  
   <img src="https://img.shields.io/badge/Do%20what%20drives%20you-tomato?&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/Not%20what%20drives%20others-darkorange?&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/and-gold?&style=for-the-badge" /><br>
