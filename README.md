@@ -65,9 +65,8 @@
 <div>
   <details>
   <summary>My Github Stats</summary>
-    <br/>
     <p>
-      <img align="left" height="240" width="480" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
+      <img align="left" height="230" width="460" src="https://github-readme-stats.vercel.app/api?username=sd2001&theme=cobalt">
     <p>
   </details>
   <p align="right">
