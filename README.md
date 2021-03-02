@@ -16,7 +16,7 @@
 <div>
   <br><br>
   <p>
-    <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-orange?&style=for-the-badge">
+    <img height=40px width=100px src="https://img.shields.io/badge/About%20Me-green?&style=for-the-badge">
   </p>  
   <p style="font-family:Arial;">
     <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-pink?style=for-the-badge&logo=one" />
