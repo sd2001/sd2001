@@ -21,7 +21,7 @@
   <p style="font-family:Arial;">
     <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-green?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20development-Learning📚-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20dev-Learning📚-green?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-green?style=for-the-badge&logo=one" /><br>
     <img src="https://img.shields.io/badge/Kittens%20and%20puppies-True%20%F0%9F%92%96-green?style=for-the-badge&logo=heart" />    
   </p>
@@ -38,7 +38,7 @@
     <img height=40px width=220px src="https://img.shields.io/badge/I%20can%20help%20you%20in-black?&style=for-the-badge">
   </p >  
   <p align="right">
-    <img src="https://img.shields.io/badge/backend%20stack-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/backend%20stacks-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/flask.svg" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/fastapi.jpg" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/django.svg" />
