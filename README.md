@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-green?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20dev-Learning📚-green?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Premier%20League%20:%20Arsenal(cOYG)-Football⚽-green?style=for-the-badge&logo=one" /><br>
-    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />       
+    <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />             
   </p>
  </div>
  </div> 
