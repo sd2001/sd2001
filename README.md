@@ -90,6 +90,8 @@
   
   People say "Jack of all Trades, Master of None",
   Quoted back in 1592, still a cliche in 2021.
+  
+  I say "Explorer of all Trades, Master of One".
   ```
 <p align="center">  
   <a href="https://github.com/sd2001/github-profile-views-counter">
